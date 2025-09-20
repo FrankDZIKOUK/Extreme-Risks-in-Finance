@@ -72,7 +72,7 @@ A detailed **project report** (PDF) is available in this repository, providing c
 
 ## Authors
 
-- **Dzikouk Frank Dilane** (2nd-year student at École Polytechnique, GitHub: @YourUsername)
+- **Dzikouk Frank Dilane** (2nd-year student at École Polytechnique, GitHub: @FrankDZIKOUK)
 - **Christel Astride Mallo Poundi** (2nd-year student at École Polytechnique, GitHub: @astride11)
 
 ## Technologies Used
